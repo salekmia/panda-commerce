@@ -1,0 +1,48 @@
+.search-form {
+   position: relative;
+   height: 40px;
+   border: 1px solid #ced4da;
+   padding: 10px;
+   border-radius: 50px;
+}
+.search-item {
+   width: 100%;
+   height: 100%;
+   vertical-align: center;
+}
+.search-item input {
+   border: none;
+}
+
+.search-item input:focus {
+   outline: none;
+   box-shadow: none;
+}
+
+.carousel-bg {
+   background: #FEEAE9;
+}
+
+.margin-top {
+   margin-top: 100px !important;
+}
+
+.custom-btn {
+   background-image: linear-gradient(to bottom, #FF589B, #FF136F);
+   color: #fff;
+   padding: 5px 25px;
+}
+
+.custom-btn:hover {
+   color: #fff;
+}
+
+.category-shoe {
+   background-image: linear-gradient(to bottom, #FF9C35, #FFD019);
+}
+.category-watch {
+   background-image: linear-gradient(to bottom, #FF589B, #FF136F);
+}
+.category-bag {
+   background-image: linear-gradient(to bottom, #4289FF, #3F07F8);
+}
